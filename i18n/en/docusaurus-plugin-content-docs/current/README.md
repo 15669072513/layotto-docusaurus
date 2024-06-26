@@ -19,7 +19,7 @@ Layotto is built on the open source data plane [MOSN](https://github.com/mosn/mo
 
 Layotto aims to combine [Multi-Runtime](https://www.infoq.com/articles/multi-runtime-microservice-architecture/) with Service Mesh into one sidecar. No matter which product you are using as the Service Mesh data plane (e.g. MOSN,Envoy or any other product), you can always attach Layotto to it and add Multi-Runtime capabilities without adding new sidecars.
 
-For example, by adding Runtime capabilities to MOSN, a Layotto process can both [serve as the data plane of istio](en/start/istio/) and provide various Runtime APIs (such as Configuration API, Pub/Sub API, etc.)
+For example, by adding Runtime capabilities to MOSN, a Layotto process can both [serve as the data plane of istio](i18n/en/docusaurus-plugin-content-docs/current/start/istio/start.md) and provide various Runtime APIs (such as Configuration API, Pub/Sub API, etc.)
 
 In addition, we were surprised to find that a sidecar can do much more than that. We are trying to make Layotto even the runtime container of FaaS (Function as a service) with the magic power of [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) .
 
@@ -27,7 +27,7 @@ In addition, we were surprised to find that a sidecar can do much more than that
 
 - Service Communication
 - Service Governance.Such as traffic hijacking and observation, service rate limiting, etc
-- [As the data plane of istio](en/start/istio/)
+- [As the data plane of istio](i18n/en/docusaurus-plugin-content-docs/current/start/istio/start.md)
 - Configuration management
 - State management
 - Event publish and subscribe
@@ -46,7 +46,7 @@ Layotto provides sdk in various languages. The sdk interacts with Layotto throug
 
 ### Get started with Layotto
 
-You can try the quickstart demos below to get started with Layotto. In addition, you can experience the [online laboratory](en/start/lab)
+You can try the quickstart demos below to get started with Layotto. In addition, you can experience the [online laboratory](i18n/en/docusaurus-plugin-content-docs/current/start/lab.md)
 
 ### API
 
@@ -134,15 +134,15 @@ Layotto enriches the <a href="https://landscape.cncf.io/serverless">CNCF CLOUD N
 As a programming enthusiast , have you ever felt that you want to participate in the development of an open source project, but don't know where to start?
 In order to help everyone better participate in open source projects, our community will regularly publish community tasks to help everyone learn by doing!
 
-[Document Contribution Guide](en/development/contributing-doc.md)
+[Document Contribution Guide](i18n/en/docusaurus-plugin-content-docs/current/development/contributing-doc.md)
 
-[Component Development Guide](en/development/developing-component.md)
+[Component Development Guide](i18n/en/docusaurus-plugin-content-docs/current/development/developing-component.md)
 
-[Layotto Github Workflows](en/development/github-workflows.md)
+[Layotto Github Workflows](i18n/en/docusaurus-plugin-content-docs/current/development/github-workflows.md)
 
-[Layotto Commands Guide](en/development/commands.md)
+[Layotto Commands Guide](i18n/en/docusaurus-plugin-content-docs/current/developmentt/commands.md)
 
-[Layotto contributor guide](en/development/CONTRIBUTING.md)
+[Layotto contributor guide](i18n/en/docusaurus-plugin-content-docs/current/development/CONTRIBUTING.md)
 
 ## Contributors
 
@@ -154,17 +154,17 @@ Thank y'all!
 
 ## Design Documents
 
-[Actuator Design Doc](en/design/actuator/actuator-design-doc.md)
+[Actuator Design Doc](i18n/en/docusaurus-plugin-content-docs/current/design/actuator/actuator-design-doc.md)
 
-[Configuration API with Apollo](en/design/configuration/configuration-api-with-apollo.md)
+[Configuration API with Apollo](i18n/en/docusaurus-plugin-content-docs/current/design/configuration/configuration-api-with-apollo.md)
 
-[Pubsub API and Compability with Dapr Component](en/design/pubsub/pubsub-api-and-compability-with-dapr-component.md)
+[Pubsub API and Compability with Dapr Component](i18n/en/docusaurus-plugin-content-docs/current/design/pubsub/pubsub-api-and-compability-with-dapr-component.md)
 
-[RPC Design Doc](en/design/rpc/rpc-design-doc.md)
+[RPC Design Doc](i18n/en/docusaurus-plugin-content-docs/current/design/rpc/rpc-design-doc.md)
 
-[Distributed Lock API Design](en/design/lock/lock-api-design.md)
+[Distributed Lock API Design](i18n/en/docusaurus-plugin-content-docs/current/design/lock/lock-api-design.md)
 
-[FaaS Design](en/design/faas/faas-poc-design.md)
+[FaaS Design](i18n/en/docusaurus-plugin-content-docs/current/design/faas/faas-poc-design.md)
 
 ## FAQ
 

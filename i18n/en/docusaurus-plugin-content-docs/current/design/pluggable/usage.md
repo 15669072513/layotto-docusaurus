@@ -54,4 +54,4 @@ hello
 
 ## Understand the implementation principle of Layotto pluggable components
 
-If you are interested in the implementation principles or want to extend some functions, you can read the [Design Document for Pluggable Components](en/design/pluggable/design.md)
+If you are interested in the implementation principles or want to extend some functions, you can read the [Design Document for Pluggable Components](i18n/en/docusaurus-plugin-content-docs/current/design/pluggable/design.md)

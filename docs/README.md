@@ -170,7 +170,7 @@ Layotto enriches the <a href="https://landscape.cncf.io/serverless">CNCF CLOUD N
 
 [Configuration API with Apollo](docs/design/configuration/configuration-api-with-apollo.md)
 
-[RPC 设计文档](docs/design/rpc/rpc设计文档.md)
+[RPC 设计文档](docs/design/rpc/rpc_design_document.md)
 
 [分布式锁 API 设计文档](docs/design/lock/lock-api-design.md)
 
